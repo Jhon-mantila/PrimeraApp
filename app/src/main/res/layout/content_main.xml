@@ -20,17 +20,4 @@
         app:layout_constraintVertical_bias="1.0"
         app:navGraph="@navigation/nav_graph" />
 
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="158dp"
-        android:layout_height="94dp"
-        android:background="#8DC84C25"
-        android:text="My Boton"
-        app:iconTint="#E41212"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
-        app:layout_constraintStart_toStartOf="parent"
-        app:strokeColor="#2196F3"
-        tools:layout_editor_absoluteY="110dp" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
